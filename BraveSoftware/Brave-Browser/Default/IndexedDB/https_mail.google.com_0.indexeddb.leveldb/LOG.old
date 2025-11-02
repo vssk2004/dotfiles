@@ -1,0 +1,6 @@
+2025/10/28-13:03:12.102 791 Reusing MANIFEST /home/kvs/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/28-13:03:12.102 791 Recovering log #3
+2025/10/28-13:03:12.116 791 Reusing old log /home/kvs/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2025/10/28-13:03:27.064 793 Level-0 table #5: started
+2025/10/28-13:03:27.109 793 Level-0 table #5: 3189887 bytes OK
+2025/10/28-13:03:27.114 793 Delete type=0 #3
