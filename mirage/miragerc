@@ -51,7 +51,11 @@ shortcuts[3] = <Control><Alt>f
 batch[3] = False
 
 [recent]
-num_recent = 1
-num[0] = 41
-urls[0,0] = /home/kvs/Pictures/Latex_Pictures/AN1.png
+num_recent = 3
+num[0] = 25
+urls[0,0] = /home/kvs/Pictures/wp.jpg
+num[1] = 27
+urls[1,0] = /home/kvs/Pictures/wp2.jpeg
+num[2] = 41
+urls[2,0] = /home/kvs/Pictures/Latex_Pictures/AN1.png
 
